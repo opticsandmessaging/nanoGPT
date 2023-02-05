@@ -1,0 +1,2 @@
+def utilityFunction():
+    return "Hello"
