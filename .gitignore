@@ -4,3 +4,4 @@ __pycache__/model.cpython-38.pyc
 out-shakespeare-char/*
 .venv/*
 .ipynb_checkpoints
+.DS_Store
